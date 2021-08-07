@@ -62,7 +62,7 @@
     "id": "btsow",
     "name": "BTSOW",
     "proxy": false,
-    "url": "https://btsow.cyou",
+    "url": "https://btsow.one/search",
     "paths": {
       "preset": "/search/{k}/page/{p}"
     },
